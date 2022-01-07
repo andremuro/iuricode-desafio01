@@ -79,21 +79,12 @@ section .box:last-child {
 }
 
 section .box .box-head small {
-  color: #717171;
+  color: #574AE8;
 }
 
 section .box .box-head {
   display: flex;
   justify-content: space-between;
-}
-
-section .box .box-head .svg {
-  cursor: pointer;
-  fill: #574AE8;
-}
-
-section .box .box-head .svg.active {
-  fill: red;
 }
 
 section .box .box-body h1 {
